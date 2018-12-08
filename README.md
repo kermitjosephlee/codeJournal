@@ -14,7 +14,7 @@ So I'll list them out now:
 - React in general
 - Redux, React Native, React Context, React Hooks, Animating in React
 - Better to writing async code in JS in all varieties - promises, async/await, fetching, ajax, ...
-- Having a better daily coding routine (breakfast, sit and code, lunch, code, walk, code, basketball, code, sleep before 12p, repeat)
+- Having a better daily coding routine (breakfast, sit and code, lunch, code, walk, code, basketball, code, sleep before 12a, repeat)
 - Building on or re-building PitCrew
 - Building a resume site for myself
 - Getting more comfortable deploying
