@@ -20,7 +20,7 @@ So I'll list them out now:
 - Getting more comfortable deploying
 - Spending some time on one codewars challenge a day
 - Spending some time on SQL questions on hackerrank everyday
-- Finishing ascii-sports
+- ~~Finishing ascii-sports~~ Dec 6, 2018
 - Going through old code and either rebuild or archive
 - Apply to more jobs && not let shouting into the void get me down
 - And to think of these things as directions I want to roll out my dough rather than things I have to achieve
