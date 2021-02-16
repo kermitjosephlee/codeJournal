@@ -10,21 +10,25 @@ What I did find useful is seeing a list from 2 years ago and seeing how what I w
 
 - Ruby on Rails
 
-  - writing it
-  - testing it
-  - building GraphQL APIs with it
+  - [] writing it
+  - [] testing it
+  - [] building GraphQL APIs with it
 
-- SQL
+- [] SQL - doing codeWars/hackerRank exercises
 
 - React
 
   - animations
   - hooks
-    - building custom hooks
-    - useReducer
-  - Redux
+    - [] building custom hooks
+    - [] useReducer
+  - [] Redux
 
-- Form handling
+- [] Form handling
+
+- Serverless
+  - [] Auth
+  - [] intro to serverless
 
 #### Projects
 
